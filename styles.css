@@ -126,3 +126,42 @@ input::placeholder {
     font-size: 50px;
   }
 }
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 20px;
+  }
+
+  .container header {
+    font-size: 40px;
+  }
+
+  .container p {
+    font-size: 14px;
+    max-width: 100%;
+  }
+
+  .container .time-content {
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 1.5rem 1.5rem;
+  }
+
+  .time .number {
+    font-size: 50px;
+  }
+
+  .time .text {
+    font-size: 10px;
+  }
+
+  .input-box {
+    flex-direction: column;
+    height: auto;
+    row-gap: 10px;
+  }
+
+  .input-box input,
+  .input-box button {
+    width: 100%;
+  }
+}
