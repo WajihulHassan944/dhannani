@@ -1266,7 +1266,7 @@ Landmark: Opp. Mazar  e Quaid</p>
                                                                                 <p role="status" aria-live="polite" aria-atomic="true"></p>
                                                                                 <ul></ul>
                                                                             </div>
-                                                                                                                                        <form class="wpcf7-form init" aria-label="Contact form">
+                                                                                                                                        <form class="wpcf7-form init" id="myContactForm" aria-label="Contact form">
     <div class="default-form2">
         <div class="row">
             <div class="col-xl-12">
@@ -1339,7 +1339,7 @@ Landmark: Opp. Mazar  e Quaid</p>
 </form>
  <script>
 document.addEventListener('DOMContentLoaded', function () {
-    const form = document.querySelector('.wpcf7-form');
+    const form = document.querySelector('#myContactForm');
 
     form.addEventListener('submit', function (e) {
         e.preventDefault();
