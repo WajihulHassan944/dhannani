@@ -1,0 +1,568 @@
+/** template rtl css **/
+
+.rtl {
+    direction: rtl;
+}
+
+.ltr {
+    direction: ltr;
+}
+
+.rtl .pull-left {
+    float: right !important;
+}
+
+.rtl .pull-right {
+    float: left !important;
+}
+
+.rtl .header-middle .outer-search-box-style1 {
+    float: right;
+    margin-left: 0px;
+    margin-right: 25px;
+}
+
+.rtl .main-menu .navigation>li {
+    float: right;
+}
+
+.rtl .header-middle .nav-outer {
+    float: right;
+}
+
+.rtl .main-menu .navigation>li:last-child {
+    margin-right: 30px;
+}
+
+.rtl .main-menu .navigation>li>ul>li>a,
+.rtl .main-menu .navigation>li>.megamenu li>a {
+    text-align: right;
+}
+
+.rtl .main-menu .navigation>li>ul>li>a:hover,
+.rtl .main-menu .navigation>li>.megamenu li>a:hover {
+    padding-left: 0px;
+    padding-right: 15px;
+}
+
+.rtl .main-menu .navigation>li>ul>li>a:before,
+.rtl .main-menu .navigation>li>.megamenu li>a:before {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .outer-search-box-style1 .search-box {
+    right: inherit;
+    left: 0px;
+}
+
+.rtl .main-slider .content {
+    text-align: right;
+}
+
+.rtl .welcome-style1-content .top ul li .text-box {
+    text-align: right;
+}
+
+.rtl .single-amenities-box .text-box {
+    text-align: right;
+}
+
+.rtl .single-amenities-box-style2 {
+    text-align: right;
+}
+
+.rtl .service-style1-title {
+    text-align: right;
+}
+
+.rtl .single-service-style1 .text-holder {
+    text-align: right;
+}
+
+.rtl .single-service-style1 .icon-holder {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .single-service-style1 .inner {
+    padding-left: 0px;
+    padding-right: 75px;
+}
+
+.rtl .single-service-style1 .text-holder .border-box {
+    float: right;
+}
+
+.rtl .floor-plans-left-content {
+    text-align: right;
+}
+
+.rtl .floor-plans-left-content ul li {
+    padding-left: 0px;
+    padding-right: 20px;
+}
+
+.rtl .floor-plans-left-content ul li:before {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .blog-style1-title-box {
+    text-align: right;
+}
+
+.rtl .single-blog-style1 .text-holder {
+    text-align: right;
+}
+
+.rtl .single-blog-style1 .text-holder .meta-info li {
+    float: right;
+}
+
+.rtl .single-footer-widget .title {
+    text-align: right;
+}
+
+.rtl .single-footer-widget .title:before {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .single-footer-widget .our-agent {
+    text-align: right;
+    float: right;
+}
+
+.rtl .single-footer-widget .footer-contact-info {
+    text-align: right;
+}
+
+.rtl .location-map {
+    text-align: right;
+}
+
+.rtl .footer-content-box {
+    margin: 0px;
+}
+
+.rtl .welcome-style1-content .bottom ul li .text-box {
+    text-align: right;
+}
+
+.rtl .place-style1-content .title h3 {
+    text-align: right;
+}
+
+.rtl .header-right-style2 .outer-search-box-style1 {
+    float: left;
+    margin-left: 0px;
+    margin-right: 25px;
+}
+
+.rtl .header-right-style2 .nav-outer {
+    float: right;
+}
+
+.rtl .welcome-style2-content {
+    text-align: right;
+}
+
+.rtl .about-style1-content-box .sec-title {
+    text-align: right;
+}
+
+.rtl .apartment-plans-tab-content .top-title {
+    text-align: right;
+}
+
+.rtl .choose-style1-content {
+    text-align: right;
+}
+
+.rtl .choose-style1-content .inner-content ul li .inner {
+    padding-left: 0px;
+    padding-right: 90px;
+}
+
+.rtl .choose-style1-content .inner-content ul li .icon {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .neighbour-box .accordion-box {
+    text-align: right;
+}
+
+.rtl .agents-title-box {
+    text-align: right;
+}
+
+.rtl .slogan-content .title {
+    text-align: right;
+}
+
+.rtl .accordion-box .accordion .accord-btn::after {
+    right: inherit;
+    left: 40px;
+}
+
+.rtl .hidden-bar-wrapper {
+    text-align: right;
+}
+
+.rtl .hidden-bar .hidden-bar-closer {
+    right: inherit;
+    left: 20px;
+}
+
+.rtl .main-menu.style3 .navigation>li:first-child {
+    margin-right: 0px;
+}
+
+.rtl .main-menu.style3 .navigation>li:last-child {
+    margin-left: 30px;
+}
+
+.rtl .intro-style1-content-box {
+    text-align: right;
+}
+
+.rtl .brief-desc-content-box {
+    text-align: right;
+}
+
+.rtl .single-gallery-item-style2 .overlay-content {
+    text-align: right;
+}
+
+.rtl .single-gallery-item-style2 .overlay-content .border-box {
+    float: right;
+}
+
+.rtl .slogan-style2-content .left .title h2 {
+    text-align: right;
+}
+
+.rtl .facilities-content-box {
+    text-align: right;
+}
+
+.rtl .floor-plans-style2-content .inner-content {
+    text-align: right;
+}
+
+.rtl .single-testimonial-style1 {
+    text-align: right;
+}
+
+.rtl .blog-style2-top-title .sec-title {
+    text-align: right;
+}
+
+.rtl .single-blog-style2 .text-holder {
+    text-align: right;
+}
+
+.rtl .subscribe-content-box .left .subscribe-title {
+    text-align: right;
+}
+
+.rtl .floor-plans-tab-content-style2 ul {
+    text-align: left;
+    max-width: 100%;
+}
+
+.rtl .header-middle-style3 .logo {
+    right: 50px;
+}
+
+.rtl .header-left-style4 .logo {
+    float: right;
+    padding-right: 0px;
+    padding-left: 150px;
+}
+
+.rtl .intro-style2-content-box {
+    text-align: right;
+}
+
+.rtl .building-features-content {
+    text-align: right;
+}
+
+.rtl .single-apartment-types-box {
+    text-align: right;
+}
+
+.rtl .floor-plans-tab-style3 .tab-button-column {
+    text-align: right;
+}
+
+.rtl .floorplan-style3-tab-bottom-content .text-box {
+    text-align: right;
+}
+
+.rtl .blog-style3-title {
+    text-align: right;
+}
+
+.rtl .single-blog-style3 {
+    text-align: right;
+}
+
+.rtl .single-blog-style3 .img-holder .meta-info {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .header-right-style5 .nav-outer {
+    float: right;
+}
+
+.rtl .header-button-style5 .phn-number {
+    padding-left: 0px;
+}
+
+.rtl .header-button-style5 {
+    padding-right: 50px;
+}
+
+.rtl .intro-style3-text-box p {
+    text-align: right;
+}
+
+.rtl .intro-style3-single-box {
+    text-align: right;
+}
+
+.rtl .apartment-plans-tab-style2 .tab-button-column {
+    text-align: right;
+    padding-right: 50px;
+}
+
+.rtl .apartment-plans-style2-tab-content p {
+    text-align: right;
+}
+
+.rtl .apartment-plans-style2-tab-content h3 {
+    text-align: right;
+}
+
+.rtl .accordion-box {
+    text-align: right;
+}
+
+.rtl .accordion-box.style2 .accordion .accord-btn .icon {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .accordion-box.style2 .accordion .accord-btn {
+    padding-right: 40px;
+}
+
+.rtl .story-content-box .inner-content {
+    text-align: right;
+}
+
+.rtl .single-extra-facilities-box {
+    text-align: right;
+}
+
+.rtl .single-extra-facilities-box .text-holder ul li {
+    padding-left: 0px;
+    padding-right: 28px;
+}
+
+.rtl .single-extra-facilities-box .text-holder ul li:before {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .welcome-style2-content .inner-content ul li {
+    padding-left: 0px;
+    padding-right: 30px;
+}
+
+.rtl .welcome-style2-content .inner-content ul li:before {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .information_details {
+    text-align: right;
+    padding-right: 30px;
+}
+
+.rtl .information_column h2 {
+    text-align: right;
+}
+
+.rtl #appoinment_content .select-input+.ui-selectmenu-button span.ui-selectmenu-text {
+    text-align: right;
+}
+
+.rtl .ui-menu .ui-menu-item-wrapper {
+    text-align: right;
+}
+
+.rtl #appoinment_content input {
+    text-align: right;
+}
+
+.rtl #appoinment_content ul.special-checkbox {
+    text-align: right;
+}
+
+.rtl .appoinment_form {
+    text-align: right;
+}
+
+.rtl .three.project-details {
+    text-align: right;
+}
+
+.rtl .project-details .list li {
+    padding-left: 0px;
+    padding-right: 27px;
+}
+
+.rtl .project-details .list li:before {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .team-member-info-box {
+    text-align: right;
+}
+
+.rtl .team-member-info-box ul li {
+    float: right;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.rtl .team-member-content-box {
+    text-align: right;
+}
+
+.rtl .skills-area h3,
+.rtl .resume h3 {
+    text-align: right;
+}
+
+.rtl .resume .info-box {
+    text-align: right;
+}
+
+.rtl .resume .info-box ol li {
+    padding-left: 0px;
+    padding-right: 30px;
+}
+
+.rtl .resume .info-box ol li:before {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .resume .info-box ol li:after {
+    left: inherit;
+    right: 10px;
+}
+
+.rtl .apartments-details-text-box {
+    text-align: right;
+}
+
+.rtl .apartments-details-two-content {
+    text-align: right;
+}
+
+.rtl .apartments-details-text-box-two .inner-content ul li {
+    padding-left: 0px;
+    padding-right: 30px;
+}
+
+.rtl .apartments-details-text-box-two .inner-content ul li:before {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .shop-one__single {
+    text-align: right;
+}
+
+.rtl .single-blog-style4 {
+    text-align: right;
+}
+
+.rtl .single-blog-style4 .text-holder .meta-info li {
+    float: none;
+}
+
+.rtl .sidebar-wrapper {
+    text-align: right;
+}
+
+.rtl .single-sidebar .title h3:before {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .blog-list-style1-area.bakker_classic .widget_categories ul li {
+    padding-left: 0px;
+    padding-right: 20px;
+}
+
+.rtl .sidebar-search-box .search-form input[type="text"] {
+    text-align: right;
+}
+
+.rtl .single-sidebar .latest-posts li .inner {
+    padding-left: 0px;
+    padding-right: 90px;
+}
+
+.rtl .single-sidebar .latest-posts li .img-box {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .tagcloud a {
+    float: right;
+}
+
+.rtl .single-blog-style4 .img-holder .date-box {
+    left: inherit;
+    right: 45px;
+}
+
+.rtl .blog-list-style1-area.bakker_classic .widget_categories ul li:before {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .blog-list-style1-area.bakker_classic .widget_archive ul li {
+    padding-left: 0px;
+    padding-right: 20px;
+}
+
+.rtl .blog-list-style1-area.bakker_classic .widget_archive ul li:before {
+    left: inherit;
+    right: 0px;
+}
+
+.rtl .contact-form {
+    text-align: right;
+}
+
+.rtl .contact-form form input[type="text"],
+.rtl .contact-form form input[type="email"],
+.rtl .contact-form form textarea {
+    text-align: right;
+}
+
+.rtl .shop-content {
+    text-align: right;
+}

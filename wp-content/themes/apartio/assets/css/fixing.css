@@ -1,0 +1,27 @@
+.header-top-style2 ul li .social-links {
+    display: block !important;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.single-sidebar .latest-posts li .title-box p a {
+    font-size: 11px !important;
+}
+
+.amenities-style5-area {
+    overflow: hidden;
+}
+
+.amenities-style2-area {
+    overflow: hidden;
+}
+
+.parallax-bg {
+    position: absolute;
+}
+
+.video-gallery-area {
+    overflow: hidden;
+}

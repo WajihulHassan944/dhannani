@@ -1,0 +1,105 @@
+/*
+ * Theme Name: Apartio
+ * Author: template_path
+ * Author URI: https://themeforest.net/user/template_path
+ * Theme URI: http://old4.commonsupport.com/apartio/
+ * Description: Apartio is a Single Property WordPress Theme.
+ * Version: 1.0.0
+ * License: This theme or plugin is comprised of two parts. (1) the PHP code and integrated HTML are licensed under the General Public License (GPL). You will find a copy of the GPL in the same directory as this text file. (2) All other parts, but not limited to the CSS code, images, and design are licensed according to the license purchased from Envato.  Read more about licensing here: http://themeforest.net/licenses
+ * License URI: license.txt
+ * Tags: blog, two-columns, left-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+ * Text Domain: apartio
+ * Tested up to: 6.0.2
+ * Requires PHP: 7.0
+*/
+
+.wp-caption {
+    margin-bottom: 2px;
+}
+
+.wp-caption-text {
+    margin-bottom: 5px;
+}
+
+.screen-reader-text {
+    margin-bottom: 12px;
+}
+
+.gallery-caption {
+    margin-bottom: 2px;
+}
+
+.bypostauthor {
+    margin-bottom: 2px;
+}
+
+.alignleft {
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    max-width: 100%;
+}
+
+.alignright {
+    float: right !important;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    max-width: 100%;
+}
+
+.aligncenter {
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.col-md-4 .funfact-meta>i {
+    right: 27px;
+}
+
+.mycustom-pricing {
+    background-color: #090909 !important;
+}
+
+.on-hover {
+    display: none;
+    animation: fadeOut 0.5s;
+}
+
+.hver:hover .on-hover {
+    display: block;
+    animation: fadeIn 0.5s;
+}
+
+.floor-plans-tab-content-style2 .button-box a,
+.blog-style2-top-title .button-box a,
+.blog-style3-title .sec-title .button-box a {
+    color: #ffffff !important;
+    border: 1px solid #44444400 !important;
+}
+
+.floorplan-style3-tab-bottom-content .text-box .button-box .btn-one {
+    background: #1b1b1b !important;
+}
+
+.mr_side_right {
+    order: 2 !important
+}
+
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+    padding: 15px 38px;
+    font-weight: 600;
+    border-radius: 0;
+    font-size: 14px;
+    color: #fff;
+    background-color: #ff5860;
+    text-transform: capitalize;
+    font-family: Montserrat, sans-serif;
+}
+
+.single-blog-style4 .img-holder .inner img {
+    width: 100%;
+}
+
+.footer-area .footer-social-link {
+    display: block !important;
+}

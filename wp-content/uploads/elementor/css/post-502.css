@@ -1,0 +1,79 @@
+.elementor-502 .elementor-element.elementor-element-6fa2c550:not(.elementor-motion-effects-element-type-background),
+.elementor-502 .elementor-element.elementor-element-6fa2c550>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #0D1723;
+    background-image: url("https://old4.commonsupport.com/apartio/wp-content/uploads/2020/11/footer-top-style4-bg-1.png");
+}
+
+.elementor-502 .elementor-element.elementor-element-6fa2c550 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 110px 0px 72px 0px;
+}
+
+.elementor-502 .elementor-element.elementor-element-6fa2c550>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-502 .elementor-element.elementor-element-156998f5:not(.elementor-motion-effects-element-type-background),
+.elementor-502 .elementor-element.elementor-element-156998f5>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #171717;
+}
+
+.elementor-502 .elementor-element.elementor-element-156998f5 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.elementor-502 .elementor-element.elementor-element-156998f5>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-502 .elementor-element.elementor-element-1c6e5b68>.elementor-widget-container {
+    padding: 0px 15px 0px 15px;
+}
+
+.elementor-502 .elementor-element.elementor-element-6f277d1c>.elementor-widget-container {
+    padding: 0px 15px 0px 15px;
+}
+
+.elementor-502 .elementor-element.elementor-element-5200de79>.elementor-widget-container {
+    padding: 0px 15px 0px 15px;
+}
+
+.elementor-502 .elementor-element.elementor-element-7470bb08:not(.elementor-motion-effects-element-type-background),
+.elementor-502 .elementor-element.elementor-element-7470bb08>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #0D1723;
+}
+
+.elementor-502 .elementor-element.elementor-element-7470bb08 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-502 .elementor-element.elementor-element-7470bb08>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+@media(max-width:1024px) {
+    .elementor-502 .elementor-element.elementor-element-3ea00efc>.elementor-element-populated {
+        margin: -100px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-502 .elementor-element.elementor-element-7c8fd7d0>.elementor-element-populated {
+        margin: -100px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-502 .elementor-element.elementor-element-7a56c822 {
+        width: 100%;
+    }
+    .elementor-502 .elementor-element.elementor-element-3ea00efc {
+        width: 100%;
+    }
+    .elementor-502 .elementor-element.elementor-element-7c8fd7d0 {
+        width: 100%;
+    }
+}
